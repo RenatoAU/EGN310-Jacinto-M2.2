@@ -47,6 +47,3 @@ This test is expected to fail because it intentionally exposes the bug in the
 AI-generated implementation. The expected result is `0`, while the defective
 function returns `-1`.
 
-## Quiz reminder
-
-Quiz 1 covers Modules 1 and 2 and is due at the end of this module.
